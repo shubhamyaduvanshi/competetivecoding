@@ -1,1 +1,2 @@
-this is coding question solved by me.
+this is MY practice and assignments at MNNIT in SHELL
+
