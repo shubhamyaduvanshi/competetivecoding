@@ -1,0 +1,24 @@
+total 1152
+drwxr-xr-x 2 shubham shubham   4096 Nov 13 22:56 11.assignment
+-rwxr-xr-x 1 shubham shubham     54 Nov 16 14:42 1.sh
+-rw-r--r-- 1 shubham shubham  24313 Nov  4 12:11 awk2_2.odp
+-rwxrwxrwx 1 shubham shubham 121591 Oct 27 14:20 awk2_2.pptx
+-rwxrwxrwx 1 shubham shubham  94712 Oct 31 14:29 functions.pptx
+-rw-r--r-- 1 shubham shubham     15 Nov 10 10:41 listcommands.txt
+-rwxrwxrwx 1 shubham shubham  94209 Oct 31 14:28 loops and desicions.pptx
+-rw-r--r-- 1 shubham shubham 261580 Nov 10 20:03 sed.pptx
+-rw-r--r-- 1 shubham shubham  27941 Nov 10 19:18 Shell11.pdf
+-rwxrwxrwx 1 shubham shubham  14881 Oct 14 08:43 Shell1.odt
+-rwxrwxrwx 1 shubham shubham  17413 Oct 13 11:58 Shell2.odt
+-rwxrwxrwx 1 shubham shubham  17504 Oct 13 11:58 Shell3.odt
+-rwxrwxrwx 1 shubham shubham  27743 Oct 13 11:59 Shell4.odt
+-rwxrwxrwx 1 shubham shubham  18830 Oct 13 11:59 Shell5.odt
+-rwxrwxrwx 1 shubham shubham  18873 Oct 13 11:59 Shell6.odt
+-rwxrwxrwx 1 shubham shubham  25505 Oct 13 11:59 Shell7.odt
+-rwxrwxrwx 1 shubham shubham  21828 Oct 13 11:56 Shell8.odt
+-rwxrwxrwx 1 shubham shubham  44568 Oct 27 08:15 Shell 9
+-rw-r--r-- 1 shubham shubham  88064 Nov  2 23:35 shellscripts.ppt
+-rw-r--r-- 1 shubham shubham      0 Nov 16 14:42 text.txt
+-rwxrwxrwx 1 shubham shubham 114721 Nov  4 07:03 variables operators and arrays.pptx
+drwxrwxrwx 2 shubham shubham  12288 Oct 27 08:10 videos
+-rwxrwxrwx 1 shubham shubham  24782 Oct 13 11:56 Week # 6.pdf

@@ -1,0 +1,6 @@
+person:capacity
+shubham:4
+aniket:5
+akhilesh:3
+patel:6
+ 
